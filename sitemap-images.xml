@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://baltikpro.ru/</loc>
+    <image:image><image:loc>https://images.unsplash.com/photo-1568605114967-8130f3a36994</image:loc></image:image>
+    <image:image><image:loc>https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83</image:loc></image:image>
+    <!-- Добавьте остальные изображения по аналогии -->
+  </url>
+</urlset>
